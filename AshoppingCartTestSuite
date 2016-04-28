@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="ecommerce">UserRegistration1</a></td></tr>
+<tr><td><a href="suite1.html">UserRegistration2</a></td></tr>
+<tr><td><a href="testsuite3.html">login</a></td></tr>
+<tr><td><a href="testsuite3b.html">ResetPassword1</a></td></tr>
+<tr><td><a href="shoppingcartTest1.html">ShoppingCart</a></td></tr>
+<tr><td><a href="ShoppingCartBug.html">shoppingCartTest2Bug</a></td></tr>
+<tr><td><a href="shoppingcartbug3.html">shoppingcartbug3</a></td></tr>
+<tr><td><a href="MoreItemAllowedBug.html">NoOFItemCartAdditionBug</a></td></tr>
+<tr><td><a href="PlaceOrder.html"> finalize PlaceOrder</a></td></tr>
+<tr><td><a href="Logout.html">Logout</a></td></tr>
+<tr><td><a href="LogoutBug.html">LogoutBug</a></td></tr>
+<tr><td><a href="continueshoppingfinal.html">continueshopping</a></td></tr>
+</tbody></table>
+</body>
+</html>
